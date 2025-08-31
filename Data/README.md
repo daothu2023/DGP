@@ -7,7 +7,7 @@ gene1,gene2
 TP53,BRCA1
 EGFR,KRAS
 ...
-## 2.  Node Features
+2.  Node Features
 
 Each node is assigned a feature vector that integrates multiple biological signals.
 Specifically, we adopt four multi-omics features: somatic mutation rate, copy number alteration (CNA),
